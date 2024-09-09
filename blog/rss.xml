@@ -4,10 +4,20 @@
         <title>哒哒哒白的官方网站 Blog</title>
         <link>https://Dadadawhite.github.io/blog</link>
         <description>哒哒哒白的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴诗]]></title>
+            <link>https://Dadadawhite.github.io/blog/happy</link>
+            <guid>https://Dadadawhite.github.io/blog/happy</guid>
+            <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气好热，我在这条路真的能行吗?我也不知道，尝试一下吧，我实在没办法。]]></description>
+            <content:encoded><![CDATA[<p>今天天气好热，我在这条路真的能行吗?我也不知道，尝试一下吧，我实在没办法。</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗，大大白</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://Dadadawhite.github.io/blog/welcome</link>
